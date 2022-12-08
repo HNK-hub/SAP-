@@ -8,4 +8,4 @@ Part 2
 Ürünün üzerinde tipi integer olan bir alan oluşturun.
 Bir tane cronjob yazın ve yazdığın dao ve servisi burada kullanarak, a maddesinde yazdığınız servisi kullanarak bulduğunuz ürünlerin kodu içerisinde geçen 1 sayısından kaç tane geçtiğini b maddesinde oluşturduğunuz alana yazın.
 
-# SAP ödevinde programı kuramadığım çok bir şey  yapamadım.
+## SAP ödevinde programı kuramadığım çok bir şey  yapamadım.
