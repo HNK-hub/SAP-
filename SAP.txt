@@ -1,0 +1,1 @@
+data product type boolean.  //data ile bir alan oluştururuz Tipini belirtiriz.
