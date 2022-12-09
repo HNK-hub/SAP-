@@ -1,1 +1,2 @@
-data product type boolean.  //data ile bir alan oluştururuz Tipini belirtiriz.
+data gv_productControl type boolean. //data ile bir alan oluştururuz Tipini belirtiriz.
+data gv_urunstock types INT2 
